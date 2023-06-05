@@ -1,6 +1,6 @@
 ### Olá, sou o Adriano Simões, 😁
 
-💻 - Desenvolvedo Front-End.<br>
+💻 - Desenvolvedor Front-End.<br>
 👨🏻‍💻 - Projetos pessoais.<br>
 🕊️ - Presitende do projeto Amigos da Esperança. <b>@aamigosdaesperanca</b><br>
 
